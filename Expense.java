@@ -21,4 +21,6 @@ Public Class Expense {
     Public LocalDate getDate) {
         return Date;
     }
+    Public toString() {
+	}
 }
